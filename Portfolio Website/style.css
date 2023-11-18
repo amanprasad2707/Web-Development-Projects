@@ -30,6 +30,8 @@ html, body{
 }
 header{
     background-color: var(--lightcolor);
+    /* position: sticky;
+    top: 0; */
 }
 nav{
     display: flex;
@@ -164,6 +166,10 @@ nav li:hover{
     transition: 0.5s ease-in-out;
     transform: translateY(100px);
 }
+.card-content a{
+    text-decoration: none;
+    color: var(--darkercolor);
+}
 .card-content h3{
     text-align: center;
 }
@@ -178,7 +184,7 @@ nav li:hover{
     margin: 2rem 0;
 }
 #contact .container{
-    height: 85vh;
+    height: 93vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -202,13 +208,6 @@ nav li:hover{
 .contact-way h3{
     font-size: 3rem;
     font-weight: bold;
-}
-.botton-contact{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-    margin: 0 auto;
-    max-width: 400px;
-    gap: 1rem;
 }
 
 /* footer */
