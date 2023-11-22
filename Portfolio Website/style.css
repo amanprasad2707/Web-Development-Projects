@@ -74,6 +74,9 @@ nav li:hover{
     justify-content: space-around;
     align-items: center;
 }
+#hero .container .hero-img{
+    border-radius: 50px;
+}
 .hero-content{
     display: flex;
     flex-direction: column;
@@ -93,6 +96,7 @@ nav li:hover{
 .name-text{
     font-size: 5rem;
 }
+
 #hero h2{
     font-size: 4rem;
     overflow: hidden;
@@ -246,6 +250,11 @@ footer{
     .hero-img{
         display: grid;
         place-items: center;
+        border-radius: 150px;
+
+    }
+    .hero-img{
+        border-radius: 150px;
     }
     #contact .container{
         height: 50vh;
