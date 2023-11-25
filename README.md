@@ -1,4 +1,4 @@
-# HTML CSS 10 PRACTICE PROJECT
+# HTML CSS 12 PRACTICE PROJECT
 
 - Project 1 - Tribute Website
 - Project 2 - Job Application
