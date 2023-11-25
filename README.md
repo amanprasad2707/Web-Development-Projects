@@ -10,3 +10,5 @@
 - Project 8 - Javascript Documentation
 - Project 9 - Blog Wesbite
 - Project 10 - Portfolio Website
+- Project 11 - TinDog Website
+- Project 12 - Netflix Clone
