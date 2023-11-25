@@ -1,3 +1,11 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "editor.minimap.showSlider": "always",
+    "editor.suggest.showStatusBar": true,
+    "launch": {
+        
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
